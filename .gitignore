@@ -1,6 +1,7 @@
 # Build Folders
 bin/
 obj/
+obj/**/Debug/
 
 # Rider project files
 .idea/
